@@ -13,4 +13,10 @@ public class LoginTest {
 	public void loginSet() {
 		System.out.println("login set");
 	}
+	
+	
+	@Test
+	public void loginGet() {
+		System.out.println("login get");
+	}
 }

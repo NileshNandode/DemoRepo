@@ -8,4 +8,9 @@ public class LoginTest {
 	public void loginPage() {
 		System.out.println("login page");
 	}
+	
+	@Test
+	public void loginSet() {
+		System.out.println("login set");
+	}
 }
